@@ -5,3 +5,6 @@
 [submodule "dtwSat"]
 	path = dtwSat
 	url = https://github.com/vwmaus/dtwsat
+[submodule "twdtw"]
+	path = twdtw
+	url = https://github.com/vwmaus/twdtw
